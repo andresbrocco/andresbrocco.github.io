@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <title>Tags on André Sbrocco Figueiredo</title>
+    <link>https://andresbrocco.github.io/tags/</link>
+    <description>Recent content in Tags on André Sbrocco Figueiredo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://andresbrocco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tag teste1</title>
-      <link>/tags/tag-teste1/</link>
+      <link>https://andresbrocco.github.io/tags/tag-teste1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tag-teste1/</guid>
+      <guid>https://andresbrocco.github.io/tags/tag-teste1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag teste2</title>
-      <link>/tags/tag-teste2/</link>
+      <link>https://andresbrocco.github.io/tags/tag-teste2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tag-teste2/</guid>
+      <guid>https://andresbrocco.github.io/tags/tag-teste2/</guid>
       <description></description>
     </item>
     

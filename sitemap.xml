@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/firstproject/firstproject/</loc>
+    <loc>https://andresbrocco.github.io/project/firstproject/firstproject/</loc>
   </url>
   
   <url>
-    <loc>/dir1/</loc>
+    <loc>https://andresbrocco.github.io/dir1/</loc>
     <lastmod>2019-06-06T11:48:24-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://andresbrocco.github.io/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/project/secondproject/secondproject/</loc>
+    <loc>https://andresbrocco.github.io/project/secondproject/secondproject/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://andresbrocco.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://andresbrocco.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://andresbrocco.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://andresbrocco.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://andresbrocco.github.io/project/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://andresbrocco.github.io/publication_types/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://andresbrocco.github.io/publication/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://andresbrocco.github.io/talk/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://andresbrocco.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tag-teste1/</loc>
+    <loc>https://andresbrocco.github.io/tags/tag-teste1/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tag-teste2/</loc>
+    <loc>https://andresbrocco.github.io/tags/tag-teste2/</loc>
     <priority>0</priority>
   </url>
   
