@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Academic</title>
-    <link>https://andresbrocco.gitlab.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://andresbrocco.gitlab.io/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Biography</title>
-      <link>https://andresbrocco.gitlab.io/project/firstproject/firstproject/</link>
+      <link>/project/firstproject/firstproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andresbrocco.gitlab.io/project/firstproject/firstproject/</guid>
+      <guid>/project/firstproject/firstproject/</guid>
       <description>&lt;p&gt;texto e link dentro do first project
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title></title>
-      <link>https://andresbrocco.gitlab.io/project/secondproject/secondproject/</link>
+      <link>/project/secondproject/secondproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andresbrocco.gitlab.io/project/secondproject/secondproject/</guid>
+      <guid>/project/secondproject/secondproject/</guid>
       <description>&lt;p&gt;oigente&lt;/p&gt;
 </description>
     </item>
