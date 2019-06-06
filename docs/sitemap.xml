@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/project/firstproject/firstproject/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/dir1/</loc>
+    <lastmod>2019-06-06T11:48:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/project/secondproject/secondproject/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/tags/tag-teste1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.gitlab.io/tags/tag-teste2/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
