@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://andresbrocco.github.io/project/firstproject/firstproject/</loc>
+    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
   </url>
   
   <url>
@@ -12,16 +13,41 @@
   </url>
   
   <url>
+    <loc>https://andresbrocco.github.io/</loc>
+    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/project/</loc>
+    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/</loc>
+    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/ceemid/</loc>
+    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/surveys/</loc>
+    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andresbrocco.github.io/authors/admin/</loc>
   </url>
   
   <url>
     <loc>https://andresbrocco.github.io/project/secondproject/secondproject/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/</loc>
     <priority>0</priority>
   </url>
   
@@ -40,11 +66,6 @@
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://andresbrocco.github.io/publication_types/</loc>
     <priority>0</priority>
   </url>
@@ -55,21 +76,6 @@
   
   <url>
     <loc>https://andresbrocco.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/tags/tag-teste1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/tags/tag-teste2/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

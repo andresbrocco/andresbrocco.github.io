@@ -6,22 +6,54 @@
     <description>Recent content in Projects on André Sbrocco Figueiredo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 -0300</lastBuildDate>
     
 	    <atom:link href="https://andresbrocco.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Biography</title>
+      <title>CEEMID</title>
       <link>https://andresbrocco.github.io/project/firstproject/firstproject/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 -0300</pubDate>
       
       <guid>https://andresbrocco.github.io/project/firstproject/firstproject/</guid>
-      <description>&lt;p&gt;texto e link dentro do first project
+      <description>&lt;p&gt;&lt;a href=&#34;https://danielantal.eu/tags/ceemid/&#34; target=&#34;_blank&#34;&gt;CEEMID&lt;/a&gt; (Central and Eastern European Music Industry Databases) were created by Consultant Daniel Antal, CFA and three collective management societies in 2014 as a platform to collect, share and integrate data for royalty price setting, economic impact evaluation and taxation on music. The aim was to bring emerging market stakeholders to the information level of mature market stakeholders.&lt;/p&gt;
+
+&lt;p&gt;CEEMID uses various forms of data collection.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nationally representative surveys of music users and film viewers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Anonymous surveys of musicians and filmmakers about their work, incomes and costs. See example &lt;a href=&#34;https://danielantal.eu/post/career_path/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Big data sources from various geolocational applications about events and location visits &lt;a href=&#34;https://www.youtube.com/watch?v=3lW8bhQ2fbY&#34; target=&#34;_blank&#34;&gt;small video&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Automatic data retrieval from open data sources, including statistical data and EU-funded research. See example &lt;a href=&#34;https://danielantal.eu/post/how_many_ever_pay/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Industry data sources such as the CISAC and IFPI global reports, the European Audiovisual Yearbook, etc. See example &lt;a href=&#34;https://danielantal.eu/post/cee_mini_17/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The CEEMID Music Professional Surveys are anonymous surveys about the live music and recording markets and granting schemes.  The surveys have been filled out by about 4000 musicians, technicians, managers (and 2000 filmmakers) about the tour destinations, concert budgets and average audiences, various royalty receipts from streaming services, physical and digital sales, YouTube, Bandcamp.  We are also creating comparable statistics with all EU national statistics on life satisfaction, economic expectations, income and economic situation and other characteristics of music and filmmaker professionals.&lt;/p&gt;
+
+&lt;p&gt;CEEMID works together with music granting agencies, music export offices and collective management societies to reach a representative segment of all professional, semi-professional and amateur artists in the countries covered: Hungary, Slovakia and Croatia, which will be extended this year to the Czech Republic and Serbia.&lt;/p&gt;
+
+&lt;p&gt;We make sure that the Client&amp;rsquo;s data (collective management organizations, music distributors, music export offices, music granting agencies) are correctly integrated with our survey data, statistical and big data sources, with industry data and the Client&amp;rsquo;s own transactional financial, licensing, granting or processed data. We are handling professionally data errors, missing data, currency translations and other problem areas.&lt;/p&gt;
+
+&lt;p&gt;We are also offering the opportunity to new partners do start surveying in Belarus, Bosnia and Herzegovina, Bulgaria and Lithuania.  In these countries we are aiming to create smaller data samples that allow a factual comparison with the five fully covered countries and the United Kingdom as a benchmark, and to pave the way to include these countries in the core CEEMID data collection on a yearly or biannual basis.&lt;/p&gt;
+
+&lt;p&gt;##Use Cases&lt;/p&gt;
+
+&lt;p&gt;In combination with collective management data and industry data the music professional surveys can help establish the value of certain rights, or estimate the compensation needed for home copying or the value transfer to platforms like YouTube.&lt;/p&gt;
+
+&lt;p&gt;In combination with granting data, it can be used for both ex ante evaluation to design better aimed, more cost-efficient and helpful grant calls, or to ex post evaluate the efficiency of grants and the (perceived) honesty and professionalism of the granting process.&lt;/p&gt;
+
+&lt;p&gt;In combination with the anonymized State51 test data set, it can support machine learning and deep learning (AI) algorithms to establish the potential foreign markets of certain songs, artists or national repertoires, or asses the value of recordings to optimize promotion.&lt;/p&gt;
+
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/rzr-McEmUEI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
 </description>
     </item>
     
