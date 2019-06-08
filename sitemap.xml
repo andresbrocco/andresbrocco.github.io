@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andresbrocco.github.io/project/projeto-2/</loc>
+    <loc>https://andresbrocco.github.io/project/formulasae-2017/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/project/ceemid/</loc>
+    <loc>https://andresbrocco.github.io/project/formulasae-2016/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/project/formulasae-2015/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/project/formulasae-2014/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/project/formulasae-2013/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,19 +103,31 @@
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/tags/ceemid/</loc>
+    <loc>https://andresbrocco.github.io/tags/freshman/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/tags/surveys/</loc>
+    <loc>https://andresbrocco.github.io/tags/suspension/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/trainee/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andresbrocco.github.io/publication_types/6/</loc>
+    <lastmod>2017-01-22T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/ceemid/</loc>
     <lastmod>2017-01-22T00:00:00-02:00</lastmod>
     <priority>0</priority>
   </url>
