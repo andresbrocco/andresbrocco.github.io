@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andresbrocco.github.io/project/firstproject/firstproject/</loc>
-    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <loc>https://andresbrocco.github.io/project/projeto-2/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/project/ceemid/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,32 +18,279 @@
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/</loc>
-    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <loc>https://andresbrocco.github.io/publication_types/4/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/project/</loc>
-    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <loc>https://andresbrocco.github.io/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/authors/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/authors/daniel-antal/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication_types/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/slovak_music_industry_2019/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/slovakia/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andresbrocco.github.io/tags/</loc>
-    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/market-report/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/music-industry/</loc>
+    <lastmod>2019-03-26T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/project/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andresbrocco.github.io/tags/ceemid/</loc>
-    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andresbrocco.github.io/tags/surveys/</loc>
-    <lastmod>2019-02-27T00:00:00-03:00</lastmod>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication_types/6/</loc>
+    <lastmod>2017-01-22T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/hungary/</loc>
+    <lastmod>2017-01-22T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/made_in_hungary/</loc>
+    <lastmod>2017-01-22T00:00:00-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication_types/0/</loc>
+    <lastmod>2015-11-09T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/cap/</loc>
+    <lastmod>2015-11-09T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/creating_better_2015/</loc>
+    <lastmod>2015-11-09T00:00:00-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/methodology/</loc>
+    <lastmod>2015-11-09T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/statistics/</loc>
+    <lastmod>2015-11-09T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/survey/</loc>
+    <lastmod>2015-11-09T00:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/hungary_music_industry_2014/</loc>
+    <lastmod>2015-05-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/amchan_energy_2010/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/pcr_hungary_2013/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/pcr/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/audiovisual/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/energy/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/environment/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/investments/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/music/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/regulation/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/royalties/</loc>
+    <lastmod>2013-07-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/hungary_psi_2009/</loc>
+    <lastmod>2009-12-15T19:00:00-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/authors/rita-kiss/</loc>
+    <lastmod>2009-12-15T19:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/data/</loc>
+    <lastmod>2009-12-15T19:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/market-size/</loc>
+    <lastmod>2009-12-15T19:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/pricing/</loc>
+    <lastmod>2009-12-15T19:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/psi/</loc>
+    <lastmod>2009-12-15T19:00:00-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication_types/2/</loc>
+    <lastmod>2004-11-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/hu_branch_lines_2004/</loc>
+    <lastmod>2004-11-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/railways/</loc>
+    <lastmod>2004-11-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/hu_rail_transport_2004/</loc>
+    <lastmod>2004-09-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/authors/g%C3%A9za-l%C3%A1szl%C3%B3/</loc>
+    <lastmod>1998-09-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/publication/money_functions/</loc>
+    <lastmod>1998-09-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/economics/</loc>
+    <lastmod>1998-09-01T00:00:00-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/finance/</loc>
+    <lastmod>1998-09-01T00:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,35 +299,8 @@
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/project/secondproject/secondproject/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/authors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://andresbrocco.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/talk/</loc>
   </url>
   
 </urlset>
