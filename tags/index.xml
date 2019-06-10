@@ -49,11 +49,11 @@
     </item>
     
     <item>
-      <title>Acoustic</title>
-      <link>https://andresbrocco.github.io/tags/acoustic/</link>
+      <title>Acoustics</title>
+      <link>https://andresbrocco.github.io/tags/acoustics/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://andresbrocco.github.io/tags/acoustic/</guid>
+      <guid>https://andresbrocco.github.io/tags/acoustics/</guid>
       <description></description>
     </item>
     
@@ -76,11 +76,38 @@
     </item>
     
     <item>
+      <title>Audio Visual</title>
+      <link>https://andresbrocco.github.io/tags/audio-visual/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/tags/audio-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAD</title>
+      <link>https://andresbrocco.github.io/tags/cad/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/tags/cad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Feature Extraction</title>
       <link>https://andresbrocco.github.io/tags/feature-extraction/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://andresbrocco.github.io/tags/feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formula Student-SAE</title>
+      <link>https://andresbrocco.github.io/tags/formula-student-sae/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/tags/formula-student-sae/</guid>
       <description></description>
     </item>
     
@@ -148,6 +175,15 @@
     </item>
     
     <item>
+      <title>Music Information Retrieval</title>
+      <link>https://andresbrocco.github.io/tags/music-information-retrieval/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/tags/music-information-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Music Visualization</title>
       <link>https://andresbrocco.github.io/tags/music-visualization/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
@@ -166,11 +202,29 @@
     </item>
     
     <item>
+      <title>PTC-Creo</title>
+      <link>https://andresbrocco.github.io/tags/ptc-creo/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/tags/ptc-creo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Processing</title>
       <link>https://andresbrocco.github.io/tags/processing/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://andresbrocco.github.io/tags/processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototype</title>
+      <link>https://andresbrocco.github.io/tags/prototype/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/tags/prototype/</guid>
       <description></description>
     </item>
     
@@ -211,25 +265,7 @@
     </item>
     
     <item>
-      <title>Synesthesia</title>
-      <link>https://andresbrocco.github.io/tags/synesthesia/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andresbrocco.github.io/tags/synesthesia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>freshman</title>
-      <link>https://andresbrocco.github.io/tags/freshman/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andresbrocco.github.io/tags/freshman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>suspension</title>
+      <title>Suspension</title>
       <link>https://andresbrocco.github.io/tags/suspension/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -238,11 +274,20 @@
     </item>
     
     <item>
-      <title>trainee</title>
+      <title>Trainee</title>
       <link>https://andresbrocco.github.io/tags/trainee/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://andresbrocco.github.io/tags/trainee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Dynamics</title>
+      <link>https://andresbrocco.github.io/tags/vehicle-dynamics/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.github.io/tags/vehicle-dynamics/</guid>
       <description></description>
     </item>
     

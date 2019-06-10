@@ -195,7 +195,7 @@
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/tags/acoustic/</loc>
+    <loc>https://andresbrocco.github.io/tags/acoustics/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -213,7 +213,25 @@
   </url>
   
   <url>
+    <loc>https://andresbrocco.github.io/tags/audio-visual/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/cad/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andresbrocco.github.io/tags/feature-extraction/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/formula-student-sae/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -261,6 +279,12 @@
   </url>
   
   <url>
+    <loc>https://andresbrocco.github.io/tags/music-information-retrieval/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andresbrocco.github.io/tags/music-visualization/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -273,6 +297,12 @@
   </url>
   
   <url>
+    <loc>https://andresbrocco.github.io/tags/ptc-creo/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://andresbrocco.github.io/tags/processing/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -280,6 +310,12 @@
   
   <url>
     <loc>https://andresbrocco.github.io/project/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/prototype/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -309,18 +345,6 @@
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/tags/synesthesia/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/tags/freshman/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://andresbrocco.github.io/tags/suspension/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -328,6 +352,12 @@
   
   <url>
     <loc>https://andresbrocco.github.io/tags/trainee/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andresbrocco.github.io/tags/vehicle-dynamics/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
