@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andresbrocco.github.io/project/audiovisual-in-shared-space-as-a-metaphor-for-mindscapes/</loc>
+    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
   </url>
@@ -77,7 +82,7 @@
   </url>
   
   <url>
-    <loc>https://andresbrocco.github.io/publication/generativeart-roma2019/</loc>
+    <loc>https://andresbrocco.github.io/publication/audio-visuals-in-shared-space-as-a-metaphor-for-mindscapes/</loc>
     <lastmod>2019-03-26T00:00:00-03:00</lastmod>
   </url>
   
@@ -346,12 +351,6 @@
   
   <url>
     <loc>https://andresbrocco.github.io/tags/suspension/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andresbrocco.github.io/tags/trainee/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
