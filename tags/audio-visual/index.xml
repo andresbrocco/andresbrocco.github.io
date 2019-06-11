@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Audio Visual on André Sbrocco Figueiredo</title>
+    <title>Audio-Visual on André Sbrocco Figueiredo</title>
     <link>https://andresbrocco.github.io/tags/audio-visual/</link>
-    <description>Recent content in Audio Visual on André Sbrocco Figueiredo</description>
+    <description>Recent content in Audio-Visual on André Sbrocco Figueiredo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>=&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 -0300</lastBuildDate>
     
 	    <atom:link href="https://andresbrocco.github.io/tags/audio-visual/index.xml" rel="self" type="application/rss+xml" />
     
@@ -53,7 +53,10 @@ Your browser does not support the video tag.
 
 &lt;p&gt;The video below is a brief demonstration of the library and its features.&lt;/p&gt;
 
-&lt;p&gt;(ADD VIDEO LINK)&lt;/p&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/KinectV2SkeletonToolsDemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
 </description>
     </item>
     
@@ -101,6 +104,15 @@ Your browser does not support the video tag.
 &lt;p&gt;&lt;img src=&#34;tenda_branca.png&#34; alt=&#34;dance floor again&#34; style=&#34;width:80%&#34;&gt;
 &lt;img src=&#34;tenda_roxa.JPG&#34; alt=&#34;dance floor&#34; style=&#34;width:80%&#34;&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Audio-visuals in shared space as a metaphor for mindscapes: generative creation in a network performance</title>
+      <link>https://andresbrocco.github.io/publication/audio-visuals-in-shared-space-as-a-metaphor-for-mindscapes/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 -0300</pubDate>
+      
+      <guid>https://andresbrocco.github.io/publication/audio-visuals-in-shared-space-as-a-metaphor-for-mindscapes/</guid>
+      <description></description>
     </item>
     
   </channel>

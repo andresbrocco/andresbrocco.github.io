@@ -53,7 +53,10 @@ Your browser does not support the video tag.
 
 &lt;p&gt;The video below is a brief demonstration of the library and its features.&lt;/p&gt;
 
-&lt;p&gt;(ADD VIDEO LINK)&lt;/p&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/kinect-skeleton-library-for-processing/KinectV2SkeletonToolsDemo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
 </description>
     </item>
     
