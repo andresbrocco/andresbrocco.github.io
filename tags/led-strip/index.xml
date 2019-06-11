@@ -24,7 +24,7 @@
 
 &lt;p&gt;The fluid positions were then mapped to a color palette, forming visual streams in a wave-like motion. Each particle of the fluid was then mapped to a corresponding Led in a strip. This information was sent through the network to a Raspberry Pi, which controlled 12 Led Strips.&lt;/p&gt;
 
-&lt;p&gt;&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+&lt;p&gt;&lt;video width=&#34;505&#34; height=&#34;364&#34; controls&gt;
   &lt;source src=&#34;https://andresbrocco.github.io/project/medooze/Medooze_Demo.mp4&#34; type=&#34;video/mp4&#34;&gt;
 Your browser does not support the video tag.
 &lt;/video&gt;

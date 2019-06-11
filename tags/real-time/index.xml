@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Real time on André Sbrocco Figueiredo</title>
+    <title>Real Time on André Sbrocco Figueiredo</title>
     <link>https://andresbrocco.github.io/tags/real-time/</link>
-    <description>Recent content in Real time on André Sbrocco Figueiredo</description>
+    <description>Recent content in Real Time on André Sbrocco Figueiredo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>=&amp;copy; 2019</copyright>
@@ -47,11 +47,10 @@ Your browser does not support the video tag.
 
 &lt;p&gt;I have made a video presenting the patch and showing it in action!&lt;/p&gt;
 
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/rzr-McEmUEI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;https://andresbrocco.github.io/project/chroma-jammer/ChromaJammer_Demo.mp4&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support the video tag.
+&lt;/video&gt; 
 </description>
     </item>
     
