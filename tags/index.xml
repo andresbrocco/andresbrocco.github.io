@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>=&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://andresbrocco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Audio-Visual</title>
       <link>https://andresbrocco.github.io/tags/audio-visual/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://andresbrocco.github.io/tags/audio-visual/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Collaborative Creation</title>
       <link>https://andresbrocco.github.io/tags/collaborative-creation/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://andresbrocco.github.io/tags/collaborative-creation/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Generative Art</title>
       <link>https://andresbrocco.github.io/tags/generative-art/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://andresbrocco.github.io/tags/generative-art/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Networked Performance</title>
       <link>https://andresbrocco.github.io/tags/networked-performance/</link>
-      <pubDate>Tue, 26 Mar 2019 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://andresbrocco.github.io/tags/networked-performance/</guid>
       <description></description>
@@ -238,7 +238,7 @@
     </item>
     
     <item>
-      <title>Real Time</title>
+      <title>Real time</title>
       <link>https://andresbrocco.github.io/tags/real-time/</link>
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
