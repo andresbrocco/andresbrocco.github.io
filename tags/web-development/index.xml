@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on Andre Sbrocco Figueiredo</title>
+    <link>https://andresbrocco.com/tags/web-development/</link>
+    <description>Recent content in Web Development on Andre Sbrocco Figueiredo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>=&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://andresbrocco.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markov Clustering Algorithm</title>
+      <link>https://andresbrocco.com/project/markovclusteringalgorithm/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresbrocco.com/project/markovclusteringalgorithm/</guid>
+      <description>&lt;p&gt;During one of my epiphanies studying subjects related to data science, I&amp;rsquo;ve stumbled across a not-so-well-known clustering algorithm. After a few researches on that topic, I realized that I would benefit from a visual tool to test its parameters and evaluate their influence.&lt;/p&gt;
+&lt;p&gt;In that occasion, I was studying web development, hence I decided to exercise my knowledge in a hands-on project. Take a look at the result !&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;./interactive/index.html&#34;&gt;&lt;img src=&#34;./featured2.jpg&#34; alt=&#34;Static image of the webpage&#34; title=&#34;Click me!&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The MCL algorithm is short for the Markov Cluster Algorithm, a fast and scalable unsupervised cluster algorithm for graphs (also known as networks) based on simulation of (stochastic) flow in graphs.&amp;rdquo; - van Dongen, the author. Check &lt;a href=&#34;https://www.micans.org/mcl/&#34;&gt;the author&amp;rsquo;s page&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;The original method has only two parameters (Inflation and Prune Treshold):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The purpose of the inflation parameter is to reduce the connections across small communities - &amp;ldquo;rich get richer, poor get poorer&amp;rdquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The prune treshold accelerates convergence by removing weak connections at each iteration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The original algorithm has some known limitations: outputs many small clusters and does not scale well. To solve the first problem, &lt;a href=&#34;https://www.youtube.com/watch?v=574z9nisRuE&amp;amp;ab_channel=VIC&#34;&gt;Srinivas Parthasarathy proposed&lt;/a&gt; the &amp;lsquo;regularized segregation method&amp;rsquo; that allows more control over cluster sizes. He has also proposed solutions to enable the algorithm to scale better, but those were not considered in my project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

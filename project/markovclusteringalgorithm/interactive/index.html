@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<!-- Required meta tags -->
+		<meta
+			charset="utf-8"
+			name="viewpoint"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"
+		/>
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="./css/bootstrap/bootstrap-grid.min.css" />
+		<link rel="stylesheet" href="./css/bootstrap/bootstrap.min.css" />
+
+		<!-- Font Awesome -->
+		<script src="https://use.fontawesome.com/ef5f9c85e9.js"></script>
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="./css/master.css" />
+
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+			integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+			crossorigin="anonymous"
+		></script>
+		<script src="./js/bootstrap/bootstrap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/6.6.4/math.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore.js"></script>
+
+		<!-- Gif.js to record animation -->
+		<script src="./js/gif.js"></script>
+		<script src="./js/gif.worker.js"></script>
+
+		<!-- p5 -->
+		<script src="./js/p5.js"></script>
+		<script src="./js/canvasMain.js"></script>
+
+		<!-- Javascript -->
+		<script src="./js/domManipulation.js"></script>
+		<script src="./js/canvasEngine.js"></script>
+		<script src="./js/utils.js"></script>
+
+		<title>Markov Clustering Algorithm</title>
+	</head>
+
+	<body>
+		<div
+			id="blockUserOverlay"
+			class="blockUserOverlay text-center align-center hideBlockUserOverlay"
+		>
+			<div class="my-2 text-light">
+				<h3>Preparing your gif...</h3>
+			</div>
+			<div class="progress my-2" style="width:50%;">
+				<div
+					id="gifProgressBar"
+					class="progress-bar progress-bar-striped progress-bar-animated"
+					role="progressbar"
+					aria-valuenow="0"
+					aria-valuemin="0"
+					aria-valuemax="100"
+					style="width: 0%"
+				></div>
+			</div>
+		</div>
+		<div class="row m-0">
+			<div class="col-6 col-sm-7 col-md-8 col-lg-9 col-xl-10 p-0">
+				<div id="sketch-holder"></div>
+			</div>
+			<div style="position:relative; width:0; height:100vh">
+				<div id="editTips" class="is-closed">
+					<div class="shadow editTipsTongue">
+						<button
+							type="button"
+							name="editPencilButton"
+							class="editPencilButton"
+							onclick="editPencilButtonClicked();"
+						>
+							<i class="fa fa-pencil" aria-hidden="true"></i>
+						</button>
+					</div>
+					<div class="shadow editTipsBody p-3 text-center">
+						<h5 class="my-2">Edit keys:</h5>
+						<div class="my-2">
+							<div class="fakeKeyboardKey">d</div>
+							+
+							<img
+								src="./images/Mouse-Left-Click-icon.png"
+								alt="mouse left click"
+								style="height:1rem;"
+							/>
+							: delete node
+						</div>
+						<div class="my-2">
+							<div class="fakeKeyboardKey">m</div>
+							+
+							<img
+								src="./images/Mouse-Left-Click-icon.png"
+								alt="mouse left click"
+								style="height:1rem;"
+							/>
+							: move node
+						</div>
+						<div class="my-2">
+							<img
+								src="./images/Mouse-Scrolling-icon.png"
+								alt="mouse scrolling"
+								style="height:1rem;"
+							/>
+							: change edge weight
+						</div>
+					</div>
+				</div>
+			</div>
+			<div
+				class="col-6 col-sm-5 col-md-4 col-lg-3 col-xl-2 p-3 d-flex flex-column justify-content-around flex-wrap parameterColumn shadow"
+				style="z-index:20;"
+			>
+				<h3>Parameters:</h3>
+				<div>
+					<label for="segregationMethod" class="">Segregation method:</label>
+					<div class="text-center">
+						<div
+							class="btn-group btn-group-toggle m-1 shadow-sm"
+							data-toggle="buttons"
+						>
+							<label class="btn btn-sm btn-primary active">
+								<input
+									type="radio"
+									name="segregationMethod"
+									id="standard"
+									autocomplete="off"
+									checked
+									onclick="setSegregationMethod('standard');"
+								/>
+								Standard
+							</label>
+							<label class="btn btn-sm btn-primary">
+								<input
+									type="radio"
+									name="segregationMethod"
+									id="regularized"
+									autocomplete="off"
+									onclick="setSegregationMethod('regularized');"
+								/>
+								Regularized
+							</label>
+						</div>
+					</div>
+				</div>
+				<div>
+					<label for="inflationValue" class="">Inflation:</label
+					><span class="inflationSpan ml-2">2</span>
+					<div class="d-flex justify-content-center">
+						<span class="mr-2">0.5</span>
+						<form class="range-field">
+							<input
+								id="inflationValue"
+								class="custom-range"
+								type="range"
+								value="2"
+								min="0.5"
+								step="0.1"
+								max="4"
+							/>
+						</form>
+						<span class="ml-2">4</span>
+					</div>
+				</div>
+				<div>
+					<label for="pruneTresholdValue" class="">Prune treshold:</label
+					><span class="pruneTresholdSpan ml-2">1</span>
+					<div class="d-flex justify-content-center">
+						<span class="mr-2">0.2</span>
+						<form class="range-field">
+							<input
+								id="pruneTresholdValue"
+								class="custom-range"
+								type="range"
+								min="0.2"
+								max="4"
+								value="1"
+								step="0.1"
+							/>
+						</form>
+						<span class="ml-2">4</span>
+					</div>
+				</div>
+				<div>
+					<label for="clusterizationSpeedValue" class=""
+						>Clusterization speed:</label
+					><span class="clusterizationSpeedSpan ml-2">1</span>
+					<div class="d-flex justify-content-center">
+						<span class="mr-2">0.2</span>
+						<form class="range-field">
+							<input
+								id="clusterizationSpeedValue"
+								class="custom-range"
+								type="range"
+								value="1"
+								min="0.2"
+								step="0.1"
+								max="4"
+							/>
+						</form>
+						<span class="ml-2">4</span>
+					</div>
+				</div>
+				<div class="text-center">
+					<div>
+						<label class="container">
+							<input
+								type="checkbox"
+								id="motionlessCheckbox"
+								onclick="motionlessCheckboxChanged();"
+							/>
+							<span class="checkmark"
+								><i class="fa fa-thumb-tack "></i> Motionless graph</span
+							>
+						</label>
+					</div>
+				</div>
+				<div class="d-flex justify-content-around">
+					<button
+						type="button"
+						class="btn btn-primary mt-2"
+						title="Reset clusterization"
+						style="height:70%;"
+						id="resetButton"
+						onclick="resetClusterization();"
+					>
+						<i class="fa fa-undo"></i>
+					</button>
+					<button
+						type="button"
+						class="btn btn-primary mt-2"
+						title="Play/Pause clusterization"
+						style="height:70%;"
+						id="playPauseButton"
+						onclick="playPauseClusterization();"
+					>
+						<i class="fa fa-play"></i>
+					</button>
+					<button
+						type="button"
+						class="btn btn-primary mt-2"
+						title="Step clusterization one iteration"
+						style="height:70%;"
+						onclick="stepClustering()"
+					>
+						<i class="fa fa-step-forward"></i>
+					</button>
+					<button
+						type="button"
+						class="btn btn-light"
+						id="recButton"
+						data-toggle="tooltip"
+						data-placement="top"
+						title="Record animation"
+						onclick="record()"
+					>
+						<i class="fa fa-file-video-o" id="recButtonIcon"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
