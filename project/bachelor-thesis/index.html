@@ -803,11 +803,78 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>The Steel Tongue Drum is a recently invented musical instrument that consists of a curved and cutted steel plate, shown at the image below.</p>
+      <p>The Steel Tongue Drum is a recently invented musical instrument that consists of
+a curved and cutted steel plate. The instrument is mainly handcrafted, so by the
+time of this research there wasn&rsquo;t any study on its acoustic properties. For
+this reason, the idea of my bachelor thesis was to propose a scientific approach
+on designing this instrument.</p>
 <img src="Steel_Tongue_Drum.png" alt="Steel Tongue Drum" style="width:40%">
-<p>The instrument is mainly handcrafted, so by the time of this research there wasn&rsquo;t any study on its acoustic properties. For this reason, the idea of my bachelor thesis was to propose a scientific approach on designing this instrument.</p>
-<p>The first step was to understand which mechanical characteristics determines the acoustic response. After some experiments, I have found that the interaction with the fluid is negligible, and the only relevant characteristics were the geometry and material of the instrument.</p>
-<p>Therefore, the frequencies of the instruments notes can be determined by a simple modal analysis. The cover image of this page shows the displacement of one of the instruments vibration modes. You can take a look at the <a href="/files/Bachelor_Thesis.pdf">full report (in portuguese)</a>.</p>
+<p>The first step was to understand which mechanical characteristics determines the
+acoustic response. The null hypothesis was that the main factor that contributes
+to its acoustic response is the metallic structure&rsquo;s modes of vibration.
+Therefore, I scanned the musical instrument using the software Autodesk ReCap,
+that gathers photos from different angles and makes a 3d mesh out of it.</p>
+<table><tr>
+<td> <img src="./3d_scan_cameraPositions.jpg" alt="" style="width:100%">
+<td> <img src="./3d_scan_mesh.jpg" alt="" style="width:100%">
+</tr></table>
+<p>After scaling the mesh to the appropriate dimensions (using the rule placed at
+the table), the mesh was imported into a CAD software (PTC Creo), and a
+parametric model was drawn following the mesh geometry.</p>
+<table><tr>
+<td> <img src="./3d_scan_creo.jpg" alt="" style="width:100%">
+<td> <img src="./thickness_measurement.jpg" alt="" style="width:100%">
+</tr></table>
+<p>The mechanical process used to conform the plate to its curved shape makes its
+thickness uneven, given by the sine of the shear angle.</p>
+<table><tr>
+<td> <img src="./conforming_process.jpg" alt="" style="width:73%">
+<td> <img src="./conforming_thickness.jpg" alt="" style="width:130%">
+</tr></table>
+<p>In order to consider that into our 3D model, we parameterize the thickness based
+on the normal angle of the surface, giving the following thickness curve.</p>
+<img src="./normal_angle.jpg" alt="" style="width:80%">
+<img src="./thickness_curve.jpg" alt="" style="width:80%">
+<p>The next step is to run a modal analysis, so I imported the parametric model
+into the software Ansys Workbench and applied a fixed constraint in the contact
+point of the instrument with the ground. I also refined the mesh around the
+edges of each tongue.</p>
+<table><tr>
+<td> <img src="./modal_simulation_constraint.jpg" alt="" style="width:100%">
+<td> <img src="./simulation_mesh.jpg" alt="" style="width:100%">
+</tr></table>
+<p>The result of the modal simulation is the shape of each mode and its
+corresponding frequency. One can observe that the first 2 modes are related to
+the &ldquo;free body&rdquo; modes, therefore are ignored in our analysis.</p>
+<img src="./modes.jpg" alt="" style="width:100%">
+<p>The modes that have significantly more displacement on specific tongues
+indicates that when hitting that tongue, that frequency will be excited. In that
+manner, we can associate that frequency with the underlying tongue, giving us a
+summary table relating each tongue to a specific frequency.</p>
+<img src="./simulation_tongue_freq.jpg" alt="" style="width:25%">
+<p>With the results of the simulation in hands, it&rsquo;s time to perform an acoustic
+test on an anechoic chamber. The base of the instrument was excited with a
+mechanical actuator, and the microphone placed above the instrument recorded the
+response.</p>
+<table><tr>
+<td> <img src="./test_setup_overview.jpg" alt="" style="width:100%">
+<td> <img src="./test_setup_bottom.jpg" alt="" style="width:100%">
+<td> <img src="./test_setup_glue.jpg" alt="" style="width:100%">
+</tr></table>
+<p>The input was a logarithmic Sine Sweep from 100Hz to 1000Hz that took an hour
+long to complete. The result can be then plotted as a Bode Diagram showing the
+Frequency response Mic/Force.</p>
+<img src="./bode.png" alt="" style="width:80%">
+<p>The peak frequencies were then compared with the frequencies found in the modal
+simulation, resulting in the comparison chart below.</p>
+<img src="./chart_tong_frequencies_comparison.png" alt="" style="width:80%">
+<p>As the curves look almost exactly the same, one can cannot discard the null
+hypothesis, indicating that the viscous interaction with the fluid is indeed
+negligible, and the only relevant characteristics were the geometry and material
+of the instrument. Therefore, the frequencies of each note of the instrument can
+be approximated by a simple modal analysis, enabling one to design new
+instruments with desired notes. You can take a look at
+the <a href="/files/Bachelor_Thesis.pdf">full report (in portuguese)</a> for more details.</p>
 
     </div>
 
